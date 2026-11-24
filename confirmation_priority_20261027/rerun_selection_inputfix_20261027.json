@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-10-27",
+  "reason": "input adapter fix retry: opaque custom inputs, AutoCompleteTextView, auto-submit readback",
+  "adapter_version": "android-input-verified-v4-20261026 + b6ab030",
+  "selected": [
+    "com.tencent.mtt/test_3",
+    "com.taobao.taobao/test_2"
+  ],
+  "allow_external_side_effects": true,
+  "allow_email_tasks": true,
+  "requires_initial_state_review": true,
+  "initial_state_ready": [],
+  "output_root": "H:/GUI_AGENT_runs/ui_path_screen_agent/kg_rag_v2_hard_intents/gpt56sol_medium_confirmation_priority_20261027_inputfix",
+  "source_results": {
+    "com.tencent.mtt/test_3": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_051102\\com.tencent.mtt\\test_3\\task_result.json",
+    "com.taobao.taobao/test_2": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_085507\\com.taobao.taobao\\test_2\\task_result.json",
+    "com.corp21cn.mail189/test_1": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_email_recovery_20261024_at_key_fix_1715\\20261024_174019\\com.corp21cn.mail189\\test_1\\task_result.json"
+  },
+  "initial_state_consumed": {
+    "com.tencent.mtt/test_3": "2026-10-27T10:47:45.258419",
+    "com.taobao.taobao/test_2": "2026-10-27T10:59:40.138616"
+  },
+  "_deferred": {
+    "com.corp21cn.mail189/test_1": "189邮箱未开SMTP，用户要求暂不重跑，开SMTP后再跑"
+  }
+}

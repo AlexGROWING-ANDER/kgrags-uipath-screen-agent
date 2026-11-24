@@ -1,0 +1,309 @@
+{
+  "created_at": "2026-10-25T18:17:40.676232",
+  "reason": "merged UniPath rerun selection: Android key adapter failures plus latest human rerun labels",
+  "selected": [
+    "air.tv.douyu.android/test_2",
+    "com.autonavi.minimap/test_1",
+    "com.autonavi.minimap/test_2",
+    "com.autonavi.minimap/test_3",
+    "com.autonavi.minimap/test_4",
+    "com.baidu.BaiduMap/test_1",
+    "com.baidu.BaiduMap/test_2",
+    "com.baidu.BaiduMap/test_3",
+    "com.baidu.BaiduMap/test_4",
+    "com.baidu.searchbox/test_1",
+    "com.baidu.searchbox/test_2",
+    "com.baidu.searchbox/test_3",
+    "com.dp.android.elong/test_1",
+    "com.duowan.kiwi/test_3",
+    "com.homelink.android/test_1",
+    "com.hupu.games/test_2",
+    "com.jingdong.app.mall/test_3",
+    "com.kugou.android/test_4",
+    "com.pupumall.customer/test_3",
+    "com.ss.android.article.news/test_1",
+    "com.ss.android.article.news/test_4",
+    "com.ss.android.ugc.aweme/test_4",
+    "com.taobao.taobao/test_1",
+    "com.taobao.taobao/test_4",
+    "com.tencent.mtt/test_1",
+    "com.tencent.mtt/test_3",
+    "com.tencent.news/test_2",
+    "com.tencent.qqmusic/test_3",
+    "com.tencent.qqmusic/test_4",
+    "com.tencent.qqsports/test_4",
+    "com.wudaokou.hippo/test_2",
+    "com.xingin.xhs/test_2",
+    "com.xingin.xhs/test_4",
+    "com.youdao.dict/test_3",
+    "com.zhihu.android/test_1",
+    "com.zhihu.android/test_2",
+    "com.zhihu.android/test_3",
+    "ctrip.android.view/test_4",
+    "me.ele/test_3",
+    "me.ele/test_4",
+    "com.tencent.qqmusic/test_5",
+    "com.netease.cloudmusic/test_5",
+    "com.duowan.kiwi/test_2",
+    "com.sina.weibo/test_2",
+    "com.hupu.games/test_4",
+    "com.homelink.android/test_2",
+    "com.homelink.android/test_4",
+    "com.pupumall.customer/test_1",
+    "com.pupumall.customer/test_2",
+    "com.dp.android.elong/test_3",
+    "com.xingin.xhs/test_1",
+    "com.taobao.taobao/test_2",
+    "com.jingdong.app.mall/test_2",
+    "com.jingdong.app.mall/test_4",
+    "com.sf.activity/test_1",
+    "com.smile.gifmaker/test_2",
+    "com.smile.gifmaker/test_4",
+    "com.sankuai.movie/test_4"
+  ],
+  "source_failures": {
+    "com.tencent.qqmusic/test_3": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_030546\\com.tencent.qqmusic\\test_3\\task_result.json"
+      }
+    ],
+    "com.tencent.qqmusic/test_4": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_031002\\com.tencent.qqmusic\\test_4\\task_result.json"
+      }
+    ],
+    "com.kugou.android/test_4": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_045031\\com.kugou.android\\test_4\\task_result.json"
+      }
+    ],
+    "com.duowan.kiwi/test_3": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_053045\\com.duowan.kiwi\\test_3\\task_result.json"
+      }
+    ],
+    "air.tv.douyu.android/test_2": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_055709\\air.tv.douyu.android\\test_2\\task_result.json"
+      }
+    ],
+    "com.zhihu.android/test_1": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_061833\\com.zhihu.android\\test_1\\task_result.json"
+      }
+    ],
+    "com.zhihu.android/test_2": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_062018\\com.zhihu.android\\test_2\\task_result.json"
+      }
+    ],
+    "com.zhihu.android/test_3": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_062802\\com.zhihu.android\\test_3\\task_result.json"
+      }
+    ],
+    "com.ss.android.article.news/test_1": [
+      {
+        "reason": "unsupported_key:pgdn",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_063910\\com.ss.android.article.news\\test_1\\task_result.json"
+      }
+    ],
+    "com.ss.android.article.news/test_4": [
+      {
+        "reason": "unsupported_key:c",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_065724\\com.ss.android.article.news\\test_4\\task_result.json"
+      }
+    ],
+    "com.tencent.news/test_2": [
+      {
+        "reason": "unsupported_key:pgdn",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_070834\\com.tencent.news\\test_2\\task_result.json"
+      }
+    ],
+    "com.hupu.games/test_2": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_073402\\com.hupu.games\\test_2\\task_result.json"
+      }
+    ],
+    "com.homelink.android/test_1": [
+      {
+        "reason": "unsupported_key:c",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_212814\\com.homelink.android\\test_1\\task_result.json"
+      }
+    ],
+    "com.baidu.BaiduMap/test_1": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_222413\\com.baidu.BaiduMap\\test_1\\task_result.json"
+      }
+    ],
+    "com.baidu.BaiduMap/test_4": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_231135\\com.baidu.BaiduMap\\test_4\\task_result.json"
+      }
+    ],
+    "com.autonavi.minimap/test_1": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_232011\\com.autonavi.minimap\\test_1\\task_result.json"
+      }
+    ],
+    "com.autonavi.minimap/test_2": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_232535\\com.autonavi.minimap\\test_2\\task_result.json"
+      }
+    ],
+    "com.autonavi.minimap/test_3": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_232759\\com.autonavi.minimap\\test_3\\task_result.json"
+      }
+    ],
+    "com.autonavi.minimap/test_4": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_233044\\com.autonavi.minimap\\test_4\\task_result.json"
+      }
+    ],
+    "com.baidu.BaiduMap/test_3": [
+      {
+        "reason": "unsupported_key:pgdn",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261017_031201\\com.baidu.BaiduMap\\test_3\\task_result.json"
+      }
+    ],
+    "me.ele/test_4": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261017_035634\\me.ele\\test_4\\task_result.json"
+      }
+    ],
+    "com.baidu.searchbox/test_2": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261017_042847\\com.baidu.searchbox\\test_2\\task_result.json"
+      }
+    ],
+    "com.tencent.qqsports/test_4": [
+      {
+        "reason": "unsupported_key:l",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_012951\\com.tencent.qqsports\\test_4\\task_result.json"
+      }
+    ],
+    "com.baidu.BaiduMap/test_2": [
+      {
+        "reason": "unsupported_key:t",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_023923\\com.baidu.BaiduMap\\test_2\\task_result.json"
+      }
+    ],
+    "me.ele/test_3": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_031015\\me.ele\\test_3\\task_result.json"
+      }
+    ],
+    "com.baidu.searchbox/test_1": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_031430\\com.baidu.searchbox\\test_1\\task_result.json"
+      }
+    ],
+    "com.baidu.searchbox/test_3": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_032228\\com.baidu.searchbox\\test_3\\task_result.json"
+      }
+    ],
+    "com.tencent.mtt/test_1": [
+      {
+        "reason": "unsupported_key:pgdn",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_033849\\com.tencent.mtt\\test_1\\task_result.json"
+      }
+    ],
+    "com.tencent.mtt/test_3": [
+      {
+        "reason": "unsupported_key:d",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_112953\\com.tencent.mtt\\test_3\\task_result.json"
+      }
+    ],
+    "com.youdao.dict/test_3": [
+      {
+        "reason": "unsupported_key:t",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_131045\\com.youdao.dict\\test_3\\task_result.json"
+      }
+    ],
+    "com.dp.android.elong/test_1": [
+      {
+        "reason": "unsupported_key:pgdn",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_152633\\com.dp.android.elong\\test_1\\task_result.json"
+      }
+    ],
+    "com.taobao.taobao/test_1": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_211128\\com.taobao.taobao\\test_1\\task_result.json"
+      }
+    ],
+    "com.taobao.taobao/test_4": [
+      {
+        "reason": "unsupported_key:x",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_215054\\com.taobao.taobao\\test_4\\task_result.json"
+      }
+    ],
+    "com.ss.android.ugc.aweme/test_4": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261018_230518\\com.ss.android.ugc.aweme\\test_4\\task_result.json"
+      }
+    ],
+    "ctrip.android.view/test_4": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261019_021139\\ctrip.android.view\\test_4\\task_result.json"
+      }
+    ],
+    "com.pupumall.customer/test_3": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261019_035806\\com.pupumall.customer\\test_3\\task_result.json"
+      }
+    ],
+    "com.wudaokou.hippo/test_2": [
+      {
+        "reason": "unsupported_key:1",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261019_042551\\com.wudaokou.hippo\\test_2\\task_result.json"
+      }
+    ],
+    "com.xingin.xhs/test_2": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261019_050627\\com.xingin.xhs\\test_2\\task_result.json"
+      }
+    ],
+    "com.xingin.xhs/test_4": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261019_052647\\com.xingin.xhs\\test_4\\task_result.json"
+      }
+    ],
+    "com.jingdong.app.mall/test_3": [
+      {
+        "reason": "unsupported_key:ctrl",
+        "source_result": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261019_054823\\com.jingdong.app.mall\\test_3\\task_result.json"
+      }
+    ]
+  },
+  "output_root": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025",
+  "allow_external_side_effects": true,
+  "rerun_command": "watch_unipath_resume.py --until <LOCAL_ISO_TIME> --rerun-selection C:\\Users\\ASUS\\Documents\\Codex\\2026-09-19\\new-chat\\unipath_mobile\\keypress_adapter_rerun_20261025.json"
+}

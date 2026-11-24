@@ -1,0 +1,23 @@
+{
+  "status": "prepared_waiting_for_user_start",
+  "source_root": "H:/GUI_AGENT_runs/ui_path_screen_agent/kg_rag_v2_hard_intents/gpt56sol_medium_gate_rerun",
+  "output_root": "H:/GUI_AGENT_runs/ui_path_screen_agent/kg_rag_v2_hard_intents/gpt56sol_medium_keypress_rerun",
+  "watcher_option": "--rerun-keypress",
+  "allow_external_side_effects": true,
+  "skip_email_sending": true,
+  "tasks": [
+    "com.kugou.android/test_1",
+    "com.duowan.kiwi/test_2",
+    "com.sina.weibo/test_3",
+    "com.tencent.qqsports/test_3",
+    "com.ss.android.ugc.aweme/test_2",
+    "com.smile.gifmaker/test_3",
+    "com.xingin.xhs/test_1",
+    "com.tencent.qqmusic/test_5",
+    "com.kugou.android/test_5",
+    "com.netease.cloudmusic/test_5",
+    "com.hupu.games/test_4",
+    "com.taobao.taobao/test_3",
+    "com.ss.android.ugc.aweme/test_3"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+ "created_at": "2026-10-27",
+ "reason": "confirmation false positives and upstream Backspace/Delete conversion repair",
+ "adapter_version": "android-input-verified-v4-20261026",
+ "selected": [
+  "com.tencent.qqmusic/test_3",
+  "com.tencent.qqmusic/test_4",
+  "com.kugou.android/test_4",
+  "com.baidu.BaiduMap/test_1",
+  "com.baidu.BaiduMap/test_3",
+  "com.baidu.BaiduMap/test_4",
+  "com.autonavi.minimap/test_1",
+  "com.autonavi.minimap/test_3",
+  "com.corp21cn.mail189/test_1",
+  "com.tencent.mtt/test_3",
+  "com.taobao.taobao/test_1",
+  "com.taobao.taobao/test_2",
+  "com.ss.android.ugc.aweme/test_4",
+  "air.tv.douyu.android/test_2"
+ ],
+ "allow_external_side_effects": true,
+ "requires_initial_state_review": true,
+ "initial_state_ready": [
+  "com.kugou.android/test_4",
+  "com.tencent.qqmusic/test_3",
+  "com.tencent.qqmusic/test_4"
+ ],
+ "output_root": "H:/GUI_AGENT_runs/ui_path_screen_agent/kg_rag_v2_hard_intents/gpt56sol_medium_confirmation_priority_20261027",
+ "source_results": {
+  "com.tencent.qqmusic/test_3": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261025_200404\\com.tencent.qqmusic\\test_3\\task_result.json",
+  "com.tencent.qqmusic/test_4": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261025_184130\\com.tencent.qqmusic\\test_4\\task_result.json",
+  "com.kugou.android/test_4": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261025_190350\\com.kugou.android\\test_4\\task_result.json",
+  "air.tv.douyu.android/test_2": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_014428\\air.tv.douyu.android\\test_2\\task_result.json",
+  "com.baidu.BaiduMap/test_1": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_033236\\com.baidu.BaiduMap\\test_1\\task_result.json",
+  "com.baidu.BaiduMap/test_3": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_075330\\com.baidu.BaiduMap\\test_3\\task_result.json",
+  "com.baidu.BaiduMap/test_4": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_035045\\com.baidu.BaiduMap\\test_4\\task_result.json",
+  "com.autonavi.minimap/test_1": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_035440\\com.autonavi.minimap\\test_1\\task_result.json",
+  "com.autonavi.minimap/test_3": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_040654\\com.autonavi.minimap\\test_3\\task_result.json",
+  "com.corp21cn.mail189/test_1": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_email_recovery_20261024_at_key_fix_1715\\20261024_174019\\com.corp21cn.mail189\\test_1\\task_result.json",
+  "me.ele/test_4": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_043033\\me.ele\\test_4\\task_result.json",
+  "com.tencent.mtt/test_3": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_051102\\com.tencent.mtt\\test_3\\task_result.json",
+  "com.taobao.taobao/test_1": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_053600\\com.taobao.taobao\\test_1\\task_result.json",
+  "com.taobao.taobao/test_2": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_085507\\com.taobao.taobao\\test_2\\task_result.json",
+  "com.ss.android.ugc.aweme/test_4": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_054609\\com.ss.android.ugc.aweme\\test_4\\task_result.json"
+ },
+ "instructions": "Only add a task key to initial_state_ready after the required manual reset is checked. Do not bulk mark ready.",
+ "input_verification": "focused editable field plus visible text readback",
+ "priority": "UniPath confirmation repair before Agent-S2 reruns",
+ "allow_email_tasks": true,
+ "review_before_rerun": [
+  "me.ele/test_4"
+ ],
+ "preflight_notes": {
+  "com.baidu.BaiduMap/test_3": "Instruction says Gaode but package is Baidu; resolve before marking ready.",
+  "air.tv.douyu.android/test_2": "Run last; dismiss floating live player before ending."
+ }
+}

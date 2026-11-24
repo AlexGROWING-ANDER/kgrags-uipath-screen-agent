@@ -1,0 +1,137 @@
+{
+  "created_at": "2026-10-27",
+  "reason": "状态遗留修复后重跑：审计确认受影响 17 条，初态已恢复",
+  "adapter_version": "android-input-verified-v4-20261026 + b6ab030",
+  "selected": [
+    "com.tencent.qqmusic/test_6",
+    "com.netease.cloudmusic/test_4",
+    "com.netease.cloudmusic/test_6",
+    "com.sina.weibo/test_2",
+    "com.ss.android.article.news/test_3",
+    "com.tencent.news/test_3",
+    "com.tencent.androidqqmail/test_1",
+    "com.dp.android.elong/test_1",
+    "com.dp.android.elong/test_4",
+    "ctrip.android.view/test_1",
+    "com.yunda.app/test_1",
+    "com.pupumall.customer/test_3",
+    "com.wudaokou.hippo/test_2",
+    "com.wudaokou.hippo/test_3",
+    "com.xingin.xhs/test_2",
+    "com.xingin.xhs/test_4",
+    "com.sankuai.movie/test_2"
+  ],
+  "allow_external_side_effects": true,
+  "allow_email_tasks": true,
+  "requires_initial_state_review": true,
+  "initial_state_ready": [
+    "com.ss.android.article.news/test_3",
+    "com.tencent.news/test_3",
+    "com.tencent.androidqqmail/test_1",
+    "com.dp.android.elong/test_1",
+    "com.dp.android.elong/test_4",
+    "ctrip.android.view/test_1",
+    "com.yunda.app/test_1",
+    "com.pupumall.customer/test_3",
+    "com.wudaokou.hippo/test_2",
+    "com.wudaokou.hippo/test_3",
+    "com.xingin.xhs/test_2",
+    "com.xingin.xhs/test_4",
+    "com.sankuai.movie/test_2"
+  ],
+  "output_root": "H:/GUI_AGENT_runs/ui_path_screen_agent/kg_rag_v2_hard_intents/gpt56sol_medium_statefix_20261027",
+  "source_results": {
+    "com.tencent.qqmusic/test_6": {
+      "case_index": 6,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_032413\\com.tencent.qqmusic\\test_6",
+      "intent": "关注热歌榜前3名的歌手"
+    },
+    "com.netease.cloudmusic/test_4": {
+      "case_index": 10,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_040133\\com.netease.cloudmusic\\test_4",
+      "intent": "搜索 \"taylor swift\"，筛选单曲，将前 4首 添加到新建歌单 \"my love\""
+    },
+    "com.netease.cloudmusic/test_6": {
+      "case_index": 12,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_042152\\com.netease.cloudmusic\\test_6",
+      "intent": "关注热歌榜前几名的歌手"
+    },
+    "com.sina.weibo/test_2": {
+      "case_index": 31,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_071617\\com.sina.weibo\\test_2",
+      "intent": "进入任意博主主页，查看他最近的4 条微博，点赞收藏前 2条并转发到自己微博"
+    },
+    "com.ss.android.article.news/test_3": {
+      "case_index": 35,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_gate_rerun\\20261021_053602\\com.ss.android.article.news\\test_3",
+      "intent": "调整字号为最大后，查看一篇新闻并调整字号为标准"
+    },
+    "com.tencent.news/test_3": {
+      "case_index": 39,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261016_071309\\com.tencent.news\\test_3",
+      "intent": "调整字号为最大后，查看一篇新闻并调整字号为标准"
+    },
+    "com.tencent.androidqqmail/test_1": {
+      "case_index": 65,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_email_recovery_20261024\\20261024_152419\\com.tencent.androidqqmail\\test_1",
+      "intent": "新建一个新的联系人，姓名是kgrag，邮箱是kgrag@example.invalid，公司为nvidia，并给他发送一条主题为hello的邮件"
+    },
+    "com.dp.android.elong/test_1": {
+      "case_index": 91,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_052506\\com.dp.android.elong\\test_1",
+      "intent": "查看上海、明天入住后天离店的酒店，筛选南京路步行街直线距离最近的5星级酒店，并收藏第一家"
+    },
+    "com.dp.android.elong/test_4": {
+      "case_index": 94,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261019_014013\\com.dp.android.elong\\test_4",
+      "intent": "切换到北京，查看离地铁4号线圆明园站最近的全季酒店，查看差评"
+    },
+    "ctrip.android.view/test_1": {
+      "case_index": 95,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_gate_rerun\\20261020_042349\\ctrip.android.view\\test_1",
+      "intent": "查看上海、明天入住后天离店的酒店，筛选南京路步行街直线距离最近的5星级酒店，并收藏第一家"
+    },
+    "com.yunda.app/test_1": {
+      "case_index": 114,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_gate_rerun\\20261020_045009\\com.yunda.app\\test_1",
+      "intent": "从当前地址姓名为“张三”、手机号为00000000000到一个姓名为“李四”、手机号为00000000000、地址为示例地址的人，查看寄送一个未拆封的手机的费用明细"
+    },
+    "com.pupumall.customer/test_3": {
+      "case_index": 73,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_121808\\com.pupumall.customer\\test_3",
+      "intent": "搜索beef，收藏销量最高的三个商品，并从我的收藏里把他们添加入购物车"
+    },
+    "com.wudaokou.hippo/test_2": {
+      "case_index": 75,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_060811\\com.wudaokou.hippo\\test_2",
+      "intent": "新增一个当前位置，门牌号110、联系人为xu、手机号为00000000000、标签为家的地址"
+    },
+    "com.wudaokou.hippo/test_3": {
+      "case_index": 76,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261019_043426\\com.wudaokou.hippo\\test_3",
+      "intent": "搜索beef，收藏销量最高的三个商品，并从我的收藏里把他们添加入购物车"
+    },
+    "com.xingin.xhs/test_2": {
+      "case_index": 102,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_061506\\com.xingin.xhs\\test_2",
+      "intent": "查看一篇关于咖啡店推荐的最热门的笔记，浏览评论，并点赞前两条评论"
+    },
+    "com.xingin.xhs/test_4": {
+      "case_index": 104,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium_android_key_adapter_rerun_20261025\\20261026_061830\\com.xingin.xhs\\test_4",
+      "intent": "搜索公园，查看3篇相关的笔记并点赞收藏，为其中一篇评论好“好看”"
+    },
+    "com.sankuai.movie/test_2": {
+      "case_index": 124,
+      "attempt_dir": "H:\\GUI_AGENT_runs\\ui_path_screen_agent\\kg_rag_v2_hard_intents\\gpt56sol_medium\\20261019_065950\\com.sankuai.movie\\test_2",
+      "intent": "查看1场在我附近的脱口秀演出，并添加想看，在我的想看中再次查看这场的信息"
+    }
+  },
+  "state_note": "17条均为审计确认受影响且初态已恢复（用户 2026-10-27 确认全部清理完成）",
+  "initial_state_consumed": {
+    "com.tencent.qqmusic/test_6": "2026-10-27T11:25:43.011801",
+    "com.netease.cloudmusic/test_4": "2026-10-27T11:48:38.144766",
+    "com.netease.cloudmusic/test_6": "2026-10-27T12:06:13.046783",
+    "com.sina.weibo/test_2": "2026-10-27T12:32:48.046119"
+  }
+}
